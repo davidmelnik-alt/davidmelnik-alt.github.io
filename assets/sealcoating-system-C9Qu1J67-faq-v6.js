@@ -1,0 +1,1 @@
+import{s as e,t}from"./link-GQE3ka_8-faq-v6.js";import{i as n}from"./index-D3eW4ReD-faq-v6.js";var r=e();function i(){return(0,r.jsx)(n,{})}export{t as Link,i as component};
